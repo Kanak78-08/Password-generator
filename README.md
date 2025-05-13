@@ -1,2 +1,2 @@
 # Password-generator
-This is a random password generator  using HTML ,CSS and Java Script
+This is a Random Password Generator  using HTML ,CSS and Java Script
